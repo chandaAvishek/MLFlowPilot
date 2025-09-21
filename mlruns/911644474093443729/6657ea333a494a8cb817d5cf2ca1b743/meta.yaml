@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/911644474093443729/6657ea333a494a8cb817d5cf2ca1b743/artifacts
+end_time: 1758415431494
+entry_point_name: ''
+experiment_id: '911644474093443729'
+lifecycle_stage: active
+run_id: 6657ea333a494a8cb817d5cf2ca1b743
+run_name: RandomForest_wine_100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758415426623
+status: 3
+tags: []
+user_id: mac

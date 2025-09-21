@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/911644474093443729/7a5b36aa0b4e413e88b30e8723aa1251/artifacts
+end_time: 1758415443762
+entry_point_name: ''
+experiment_id: '911644474093443729'
+lifecycle_stage: active
+run_id: 7a5b36aa0b4e413e88b30e8723aa1251
+run_name: RandomForest_breast_cancer_100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758415439264
+status: 3
+tags: []
+user_id: mac

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9ca60bedebac4067a77e4b2318437384/artifacts
+end_time: 1758413571125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ca60bedebac4067a77e4b2318437384
+run_name: RandomForest_Iris
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758413570758
+status: 3
+tags: []
+user_id: mac
